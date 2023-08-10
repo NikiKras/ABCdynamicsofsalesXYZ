@@ -20,11 +20,13 @@ One-dimensional ABC-analysis:
   + Counted the contribution of each product
   + Counted the sales as an accumulation
   + Defined groups
+
 Multidimensional ABC-analysis:
   + Counted sales by product and by retail price
   + Calculate groups for column with product quantity
   + Calculate groups for column with retail price
   + Selected the right columns and sorted
-Wrote a function to automate ABC-analysis
+
+**Wrote a function to automate ABC-analysis**
 # 2. Sales dynamics:
 
