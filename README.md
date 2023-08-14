@@ -6,6 +6,7 @@ Used columns:
   + DR_NDrugs - product name
   + DR_Kol - number of pieces sold
   + DR_CRoz - retail price
+  + DR_SDisc - discount 
 # Task:   
 We need to perform three types of analysis: 
   1. ABC-analysis
