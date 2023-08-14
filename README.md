@@ -31,7 +31,7 @@ Multidimensional ABC-analysis:
 # 2. Sales dynamics:
   + Loaded dataframe 'dataAptSecond.csv'
   + Assess the data structure, find out we have five days
-  + Calculated the sales amount for each day, minus the discount, and renamed the revenue column
+  + Calculated the sales amount for each day, minus the discount in new column
   + **Three ways I counted sales dinamics:**
   <ol>
   <li>Using 'rolling' and lamda-function</li>
@@ -40,4 +40,7 @@ Multidimensional ABC-analysis:
 </ol>  
 
 # 3. XYZ-analysis:   
-
+  + Sales calculated per day for each product
+  + Filtered only those products that sold for several days
+  + Calculated the coefficient of variation
+  + Defined groups
