@@ -29,4 +29,15 @@ Multidimensional ABC-analysis:
 
 **Wrote a function to automate ABC-analysis**
 # 2. Sales dynamics:
+  + Loaded dataframe 'dataAptSecond.csv'
+  + Assess the data structure, find out we have five days
+  + Calculated the sales amount for each day, minus the discount, and renamed the revenue column
+  + **Three ways I counted sales dinamics:**
+  <ol>
+  <li>Using 'rolling' and lamda-function</li>
+  <li>Using 'shift' and ordinary expression</li>
+  <li>Using only 'pct_change'</li>
+</ol>  
+
+# 3. XYZ-analysis:   
 
